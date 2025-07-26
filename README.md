@@ -9,17 +9,15 @@
 <div align="center">
 
 # Hi, 👋 I'm Prince Shah  
-**A passionate Full Stack Web Developer from Bihar (IN)**
+**A passionate Full Stack Web Developer from Delhi (IN)**
 
 </div>
 
 
 ### 🔥 About Me
 - 🚀 Self-learner on a journey to become a **Software Developer**
-- 🌱 Learning: `Full Stack Development`, `DSA`, `Core CS Subjects`
-- 🎯 Goal: Master development without a formal degree
-- 🧠 Exploring: `Open Source`, `AI Tools`, and `Tech Communities`
-
+- 🌱 Learning: `Full Stack Development`, `DSA`,
+- 🧠 Exploring: `Open Source`
 ---
 
 ### 🚀 Tech Stack
